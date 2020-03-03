@@ -9,7 +9,9 @@ body {
 }
 
 h2 {
-  color: green;
+  color: #424874;
+  height: 50px;
+  background-color: #dcd6f7;
 }
 
 .todo-list {
